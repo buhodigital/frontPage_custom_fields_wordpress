@@ -3,4 +3,4 @@ Create custom fields on the principal admin page of wordpress.
 
 the fields could be set any where.
 
-you have to add to zip file and upload as plugin on wordpress
+you have to add to zip all the files and upload as plugin on wordpress
